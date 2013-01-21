@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001-StreamWriter", "001-StreamWriter\001-StreamWriter.csproj", "{F71D43DF-3FB6-4535-BE78-C1FC8D81FCE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002-StreamReader", "002-StreamReader\002-StreamReader.csproj", "{D26AEC47-B3FA-4E86-A026-1B54045D7737}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003-DriveInfo", "003-DriveInfo\003-DriveInfo.csproj", "{B05FB98B-E78D-48F2-A71D-7AD22AFBD827}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004-DirectoryDirectoryInfo", "004-DirectoryDirectoryInfo\004-DirectoryDirectoryInfo.csproj", "{DD6AAC70-DC16-4159-93C0-A9D77DD18C9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005-FileFileInfo", "005-FileFileInfo\005-FileFileInfo.csproj", "{376A8272-A105-4196-9058-1C0486976CF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F71D43DF-3FB6-4535-BE78-C1FC8D81FCE3}.Debug|x86.ActiveCfg = Debug|x86
+		{F71D43DF-3FB6-4535-BE78-C1FC8D81FCE3}.Debug|x86.Build.0 = Debug|x86
+		{F71D43DF-3FB6-4535-BE78-C1FC8D81FCE3}.Release|x86.ActiveCfg = Release|x86
+		{F71D43DF-3FB6-4535-BE78-C1FC8D81FCE3}.Release|x86.Build.0 = Release|x86
+		{D26AEC47-B3FA-4E86-A026-1B54045D7737}.Debug|x86.ActiveCfg = Debug|x86
+		{D26AEC47-B3FA-4E86-A026-1B54045D7737}.Debug|x86.Build.0 = Debug|x86
+		{D26AEC47-B3FA-4E86-A026-1B54045D7737}.Release|x86.ActiveCfg = Release|x86
+		{D26AEC47-B3FA-4E86-A026-1B54045D7737}.Release|x86.Build.0 = Release|x86
+		{B05FB98B-E78D-48F2-A71D-7AD22AFBD827}.Debug|x86.ActiveCfg = Debug|x86
+		{B05FB98B-E78D-48F2-A71D-7AD22AFBD827}.Debug|x86.Build.0 = Debug|x86
+		{B05FB98B-E78D-48F2-A71D-7AD22AFBD827}.Release|x86.ActiveCfg = Release|x86
+		{B05FB98B-E78D-48F2-A71D-7AD22AFBD827}.Release|x86.Build.0 = Release|x86
+		{DD6AAC70-DC16-4159-93C0-A9D77DD18C9F}.Debug|x86.ActiveCfg = Debug|x86
+		{DD6AAC70-DC16-4159-93C0-A9D77DD18C9F}.Debug|x86.Build.0 = Debug|x86
+		{DD6AAC70-DC16-4159-93C0-A9D77DD18C9F}.Release|x86.ActiveCfg = Release|x86
+		{DD6AAC70-DC16-4159-93C0-A9D77DD18C9F}.Release|x86.Build.0 = Release|x86
+		{376A8272-A105-4196-9058-1C0486976CF2}.Debug|x86.ActiveCfg = Debug|x86
+		{376A8272-A105-4196-9058-1C0486976CF2}.Debug|x86.Build.0 = Debug|x86
+		{376A8272-A105-4196-9058-1C0486976CF2}.Release|x86.ActiveCfg = Release|x86
+		{376A8272-A105-4196-9058-1C0486976CF2}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
