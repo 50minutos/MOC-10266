@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001-Destrutor", "001-Destrutor\001-Destrutor.csproj", "{FCE0A486-76F9-4246-A391-9A596025C8BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002-Dispose", "002-Dispose\002-Dispose.csproj", "{DA5F3770-7CB0-4B6E-BB44-61522D553F9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003-Using", "003-Using\003-Using.csproj", "{07254425-9C34-42FE-8513-41BA31D75CD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCE0A486-76F9-4246-A391-9A596025C8BA}.Debug|x86.ActiveCfg = Debug|x86
+		{FCE0A486-76F9-4246-A391-9A596025C8BA}.Debug|x86.Build.0 = Debug|x86
+		{FCE0A486-76F9-4246-A391-9A596025C8BA}.Release|x86.ActiveCfg = Release|x86
+		{FCE0A486-76F9-4246-A391-9A596025C8BA}.Release|x86.Build.0 = Release|x86
+		{DA5F3770-7CB0-4B6E-BB44-61522D553F9F}.Debug|x86.ActiveCfg = Debug|x86
+		{DA5F3770-7CB0-4B6E-BB44-61522D553F9F}.Debug|x86.Build.0 = Debug|x86
+		{DA5F3770-7CB0-4B6E-BB44-61522D553F9F}.Release|x86.ActiveCfg = Release|x86
+		{DA5F3770-7CB0-4B6E-BB44-61522D553F9F}.Release|x86.Build.0 = Release|x86
+		{07254425-9C34-42FE-8513-41BA31D75CD1}.Debug|x86.ActiveCfg = Debug|x86
+		{07254425-9C34-42FE-8513-41BA31D75CD1}.Debug|x86.Build.0 = Debug|x86
+		{07254425-9C34-42FE-8513-41BA31D75CD1}.Release|x86.ActiveCfg = Release|x86
+		{07254425-9C34-42FE-8513-41BA31D75CD1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
