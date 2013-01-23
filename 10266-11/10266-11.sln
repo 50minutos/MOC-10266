@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001-Lambda", "001-Lambda\001-Lambda.csproj", "{73FB44BF-6A5E-4CC0-8E6E-21125F208451}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002-Delegate", "002-Delegate\002-Delegate.csproj", "{79141652-6047-4359-A1EE-916285294AAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73FB44BF-6A5E-4CC0-8E6E-21125F208451}.Debug|x86.ActiveCfg = Debug|x86
+		{73FB44BF-6A5E-4CC0-8E6E-21125F208451}.Debug|x86.Build.0 = Debug|x86
+		{73FB44BF-6A5E-4CC0-8E6E-21125F208451}.Release|x86.ActiveCfg = Release|x86
+		{73FB44BF-6A5E-4CC0-8E6E-21125F208451}.Release|x86.Build.0 = Release|x86
+		{79141652-6047-4359-A1EE-916285294AAC}.Debug|x86.ActiveCfg = Debug|x86
+		{79141652-6047-4359-A1EE-916285294AAC}.Debug|x86.Build.0 = Debug|x86
+		{79141652-6047-4359-A1EE-916285294AAC}.Release|x86.ActiveCfg = Release|x86
+		{79141652-6047-4359-A1EE-916285294AAC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
