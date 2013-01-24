@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001-LINQ", "001-LINQ\001-LINQ.csproj", "{6A3A1467-99F3-4063-A99C-BEA6EE466BC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002-Where", "002-Where\002-Where.csproj", "{5B0E3063-5875-493B-877F-D5E0F2E061EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003-Order", "003-Order\003-Order.csproj", "{80AB2F40-6AF6-4EA9-A148-90D23D6B51FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A3A1467-99F3-4063-A99C-BEA6EE466BC4}.Debug|x86.ActiveCfg = Debug|x86
+		{6A3A1467-99F3-4063-A99C-BEA6EE466BC4}.Debug|x86.Build.0 = Debug|x86
+		{6A3A1467-99F3-4063-A99C-BEA6EE466BC4}.Release|x86.ActiveCfg = Release|x86
+		{6A3A1467-99F3-4063-A99C-BEA6EE466BC4}.Release|x86.Build.0 = Release|x86
+		{5B0E3063-5875-493B-877F-D5E0F2E061EA}.Debug|x86.ActiveCfg = Debug|x86
+		{5B0E3063-5875-493B-877F-D5E0F2E061EA}.Debug|x86.Build.0 = Debug|x86
+		{5B0E3063-5875-493B-877F-D5E0F2E061EA}.Release|x86.ActiveCfg = Release|x86
+		{5B0E3063-5875-493B-877F-D5E0F2E061EA}.Release|x86.Build.0 = Release|x86
+		{80AB2F40-6AF6-4EA9-A148-90D23D6B51FA}.Debug|x86.ActiveCfg = Debug|x86
+		{80AB2F40-6AF6-4EA9-A148-90D23D6B51FA}.Debug|x86.Build.0 = Debug|x86
+		{80AB2F40-6AF6-4EA9-A148-90D23D6B51FA}.Release|x86.ActiveCfg = Release|x86
+		{80AB2F40-6AF6-4EA9-A148-90D23D6B51FA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

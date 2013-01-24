@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001-IEnumerator", "001-IEnumerator\001-IEnumerator.csproj", "{5F6C8449-7EDC-4202-9082-A5A70EAC1D5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002-IEnumerable", "002-IEnumerable\002-IEnumerable.csproj", "{E0F633DE-166B-4242-A1DF-603BCE5E156A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F6C8449-7EDC-4202-9082-A5A70EAC1D5C}.Debug|x86.ActiveCfg = Debug|x86
+		{5F6C8449-7EDC-4202-9082-A5A70EAC1D5C}.Debug|x86.Build.0 = Debug|x86
+		{5F6C8449-7EDC-4202-9082-A5A70EAC1D5C}.Release|x86.ActiveCfg = Release|x86
+		{5F6C8449-7EDC-4202-9082-A5A70EAC1D5C}.Release|x86.Build.0 = Release|x86
+		{E0F633DE-166B-4242-A1DF-603BCE5E156A}.Debug|x86.ActiveCfg = Debug|x86
+		{E0F633DE-166B-4242-A1DF-603BCE5E156A}.Debug|x86.Build.0 = Debug|x86
+		{E0F633DE-166B-4242-A1DF-603BCE5E156A}.Release|x86.ActiveCfg = Release|x86
+		{E0F633DE-166B-4242-A1DF-603BCE5E156A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

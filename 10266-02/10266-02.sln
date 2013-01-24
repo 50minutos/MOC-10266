@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "017-For", "017-For\017-For.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "018-Escopo", "018-Escopo\018-Escopo.csproj", "{28A86BC1-5662-4786-96B7-3BBCBCD3AF27}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "019-NullableTypes", "019-NullableTypes\019-NullableTypes.csproj", "{E59EBBF2-1456-49D8-AA51-1EC6ECC8BF59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -115,6 +117,10 @@ Global
 		{28A86BC1-5662-4786-96B7-3BBCBCD3AF27}.Debug|x86.Build.0 = Debug|x86
 		{28A86BC1-5662-4786-96B7-3BBCBCD3AF27}.Release|x86.ActiveCfg = Release|x86
 		{28A86BC1-5662-4786-96B7-3BBCBCD3AF27}.Release|x86.Build.0 = Release|x86
+		{E59EBBF2-1456-49D8-AA51-1EC6ECC8BF59}.Debug|x86.ActiveCfg = Debug|x86
+		{E59EBBF2-1456-49D8-AA51-1EC6ECC8BF59}.Debug|x86.Build.0 = Debug|x86
+		{E59EBBF2-1456-49D8-AA51-1EC6ECC8BF59}.Release|x86.ActiveCfg = Release|x86
+		{E59EBBF2-1456-49D8-AA51-1EC6ECC8BF59}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
