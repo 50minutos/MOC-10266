@@ -5,14 +5,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001-Lambda", "001-Lambda\00
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002-Delegate", "002-Delegate\002-Delegate.csproj", "{79141652-6047-4359-A1EE-916285294AAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003-EventHandler", "003-EventHandler\003-EventHandler.csproj", "{BB6EABA3-808D-4FC4-A9DC-B086AF522D07}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004-Rapido", "004-Rapido\004-Rapido.csproj", "{BFD05A5C-5657-4957-AE3B-212B4780C9D1}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005-Delegate", "005-Delegate\005-Delegate.csproj", "{A813893F-6A79-4DF5-9A00-1CBFEF0B5F16}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006-Event", "006-Event\006-Event.csproj", "{8CC46466-39C5-4F9F-84DA-455CCAE04504}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -27,22 +19,6 @@ Global
 		{79141652-6047-4359-A1EE-916285294AAC}.Debug|x86.Build.0 = Debug|x86
 		{79141652-6047-4359-A1EE-916285294AAC}.Release|x86.ActiveCfg = Release|x86
 		{79141652-6047-4359-A1EE-916285294AAC}.Release|x86.Build.0 = Release|x86
-		{BB6EABA3-808D-4FC4-A9DC-B086AF522D07}.Debug|x86.ActiveCfg = Debug|x86
-		{BB6EABA3-808D-4FC4-A9DC-B086AF522D07}.Debug|x86.Build.0 = Debug|x86
-		{BB6EABA3-808D-4FC4-A9DC-B086AF522D07}.Release|x86.ActiveCfg = Release|x86
-		{BB6EABA3-808D-4FC4-A9DC-B086AF522D07}.Release|x86.Build.0 = Release|x86
-		{BFD05A5C-5657-4957-AE3B-212B4780C9D1}.Debug|x86.ActiveCfg = Debug|x86
-		{BFD05A5C-5657-4957-AE3B-212B4780C9D1}.Debug|x86.Build.0 = Debug|x86
-		{BFD05A5C-5657-4957-AE3B-212B4780C9D1}.Release|x86.ActiveCfg = Release|x86
-		{BFD05A5C-5657-4957-AE3B-212B4780C9D1}.Release|x86.Build.0 = Release|x86
-		{A813893F-6A79-4DF5-9A00-1CBFEF0B5F16}.Debug|x86.ActiveCfg = Debug|x86
-		{A813893F-6A79-4DF5-9A00-1CBFEF0B5F16}.Debug|x86.Build.0 = Debug|x86
-		{A813893F-6A79-4DF5-9A00-1CBFEF0B5F16}.Release|x86.ActiveCfg = Release|x86
-		{A813893F-6A79-4DF5-9A00-1CBFEF0B5F16}.Release|x86.Build.0 = Release|x86
-		{8CC46466-39C5-4F9F-84DA-455CCAE04504}.Debug|x86.ActiveCfg = Debug|x86
-		{8CC46466-39C5-4F9F-84DA-455CCAE04504}.Debug|x86.Build.0 = Debug|x86
-		{8CC46466-39C5-4F9F-84DA-455CCAE04504}.Release|x86.ActiveCfg = Release|x86
-		{8CC46466-39C5-4F9F-84DA-455CCAE04504}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
