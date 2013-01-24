@@ -333,13 +333,14 @@
             // 
             this.button21.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.button21.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button21.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button21.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button21.Location = new System.Drawing.Point(310, 233);
             this.button21.Name = "button21";
             this.button21.Size = new System.Drawing.Size(50, 50);
             this.button21.TabIndex = 24;
-            this.button21.Text = "9";
+            this.button21.Text = "Sign";
             this.button21.UseVisualStyleBackColor = false;
+            this.button21.Click += new System.EventHandler(this.button21_Click);
             // 
             // button22
             // 
@@ -350,8 +351,9 @@
             this.button22.Name = "button22";
             this.button22.Size = new System.Drawing.Size(50, 50);
             this.button22.TabIndex = 23;
-            this.button22.Text = "9";
+            this.button22.Text = "abs";
             this.button22.UseVisualStyleBackColor = false;
+            this.button22.Click += new System.EventHandler(this.button22_Click);
             // 
             // button23
             // 
@@ -364,6 +366,7 @@
             this.button23.TabIndex = 22;
             this.button23.Text = "%";
             this.button23.UseVisualStyleBackColor = false;
+            this.button23.Click += new System.EventHandler(this.Operacao);
             // 
             // button24
             // 
@@ -376,6 +379,7 @@
             this.button24.TabIndex = 25;
             this.button24.Text = "+";
             this.button24.UseVisualStyleBackColor = false;
+            this.button24.Click += new System.EventHandler(this.Operacao);
             // 
             // button25
             // 
@@ -388,6 +392,7 @@
             this.button25.TabIndex = 26;
             this.button25.Text = "-";
             this.button25.UseVisualStyleBackColor = false;
+            this.button25.Click += new System.EventHandler(this.Operacao);
             // 
             // button26
             // 
@@ -400,6 +405,7 @@
             this.button26.TabIndex = 28;
             this.button26.Text = "/";
             this.button26.UseVisualStyleBackColor = false;
+            this.button26.Click += new System.EventHandler(this.Operacao);
             // 
             // button27
             // 
@@ -412,6 +418,7 @@
             this.button27.TabIndex = 27;
             this.button27.Text = "*";
             this.button27.UseVisualStyleBackColor = false;
+            this.button27.Click += new System.EventHandler(this.Operacao);
             // 
             // button29
             // 
@@ -420,10 +427,11 @@
             this.button29.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button29.Location = new System.Drawing.Point(384, 177);
             this.button29.Name = "button29";
-            this.button29.Size = new System.Drawing.Size(106, 50);
+            this.button29.Size = new System.Drawing.Size(106, 106);
             this.button29.TabIndex = 29;
             this.button29.Text = "=";
             this.button29.UseVisualStyleBackColor = false;
+            this.button29.Click += new System.EventHandler(this.button29_Click);
             // 
             // Form1
             // 
